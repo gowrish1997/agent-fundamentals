@@ -1,0 +1,1 @@
+The user asked for a good cricketer in the Indian team. I explained that "good" is subjective and depends on various factors, then asked the user to specify what aspects of a cricketer they are interested in (e.g., batsman, bowler, all-rounder, captaincy).
